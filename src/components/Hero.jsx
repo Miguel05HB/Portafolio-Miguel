@@ -19,11 +19,9 @@ const Hero = () => {
             Hola, Soy <span className="text-[#915eff]">Miguel</span>
           </h1>
           <p className={`${styles.heroSubText} mt-2 text-white-100`}>
-            Soy un desarrollador de software apasionado
-            <br className="sm:block hidden" /> y altamente motivado con
-            experiencia en la
-            <br className="sm:block hidden" /> creación de soluciones web
-            eficientes.
+            Soy un desarrollador de software comprometido
+            <br className="sm:block hidden" />
+            con la excelencia técnica y la innovación.
           </p>
         </div>
       </div>
